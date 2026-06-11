@@ -1,4 +1,4 @@
-Dự án này phục vụ cho khóa luận tốt nghiệp ngành Phân tích Dữ liệu Kinh doanh. Codebase tập trung vào việc xây dựng một pipeline chuẩn CRISP-DM để phát hiện bất thường trên Báo cáo tài chính của các doanh nghiệp ngành bán lẻ bằng mô hình học máy (Machine Learning).
+Dự án này phục vụ cho khóa luận tốt nghiệp ngành Phân tích Dữ liệu. Codebase tập trung vào việc xây dựng một pipeline chuẩn CRISP-DM để phát hiện bất thường trên Báo cáo tài chính của các doanh nghiệp ngành bán lẻ bằng mô hình học máy.
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -63,4 +63,4 @@ Sau khi chạy, xem thành quả báo cáo tại terminal và các ảnh report 
 
 ## ✍🏻 Tác giả
 - GitHub: [@thanhdinh-it](https://github.com/thanhdinh-it)
-- Sinh viên thực hiện Khóa luận tốt nghiệp chuyên ngành Phân tích Dữ liệu Kinh doanh.
+- Sinh viên thực hiện Khóa luận tốt nghiệp chuyên ngành Phân tích Dữ liệu.
