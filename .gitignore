@@ -18,8 +18,10 @@ __pycache__/
 Thumbs.db
 
 # Project specifics
-data/
-output/
+data/*
+!data/**/.gitkeep
+output/*
+!output/**/.gitkeep
 notebooks/
 Documents/
 References/
