@@ -19,9 +19,11 @@ Thumbs.db
 
 # Project specifics
 data/*
-!data/**/.gitkeep
+!data/processed/
+data/processed/*
+!data/processed/.gitkeep
 output/*
-!output/**/.gitkeep
+!output/.gitkeep
 notebooks/
 Documents/
 References/
